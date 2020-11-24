@@ -1,2 +1,2 @@
 # TestingGithubCI
-Testing Github CI
+TestingGithubCI
