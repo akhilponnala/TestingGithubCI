@@ -11,7 +11,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/octocat/TestingGithubCI</url>
+      <url>https://maven.pkg.github.com/akhilponnala/TestingGithubCI</url>
     </repository>
   </distributionManagement>
     <properties>
